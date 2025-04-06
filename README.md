@@ -1,4 +1,3 @@
-````markdown name=README.md
 # n8n Templates
 
 This repository contains a collection of JSON-based workflow templates for [n8n](https://n8n.io). Each template demonstrates practical automation examples and can be customized or extended for different use cases.
@@ -60,4 +59,3 @@ This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) f
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or submit a pull request.
-````
